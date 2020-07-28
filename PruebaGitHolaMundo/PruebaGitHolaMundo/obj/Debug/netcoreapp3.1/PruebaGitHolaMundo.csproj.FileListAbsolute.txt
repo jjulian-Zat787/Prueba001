@@ -1,0 +1,13 @@
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.exe
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.deps.json
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.runtimeconfig.json
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.runtimeconfig.dev.json
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.dll
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\bin\Debug\netcoreapp3.1\PruebaGitHolaMundo.pdb
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.csprojAssemblyReference.cache
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.AssemblyInfoInputs.cache
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.AssemblyInfo.cs
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.dll
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.pdb
+C:\Users\jjulian\source\repos\Prueba001\PruebaGitHolaMundo\PruebaGitHolaMundo\obj\Debug\netcoreapp3.1\PruebaGitHolaMundo.genruntimeconfig.cache
